@@ -2,3 +2,4 @@ validators
 lxml
 requests
 argparse
+re
