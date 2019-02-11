@@ -9,7 +9,7 @@ FAIL = 0
 SUCCESS = 1
 
 parser = argparse.ArgumentParser()
-# TODO: implement argargparse -u (optional) for Custom alias
+# TODO: implement argparse -u (optional) for Custom alias
 parser.add_argument("link", type=str,
                     help="Paste the link to shorten (use quotes('link'))")
 parser.add_argument("-p", "--http", action="store_true",
