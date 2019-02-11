@@ -9,7 +9,7 @@ FAIL = 0
 SUCCESS = 1
 
 parser = argparse.ArgumentParser()
-# TODO: implement argargparse -u (optional)for Custom alias
+# TODO: implement argargparse -u (optional) for Custom alias
 parser.add_argument("link", type=str,
                     help="Paste the link to shorten (use quotes('link'))")
 parser.add_argument("-p", "--http", action="store_true",
@@ -39,5 +39,4 @@ def shorter_link(args):
 
 
 if __name__ == '__main__':
-    # print(shorter_link(args))
-    print(args.unique)
+    print(shorter_link(args))
