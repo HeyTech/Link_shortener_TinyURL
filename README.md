@@ -10,7 +10,7 @@ if the link doesn't start with https, it uses `https://' by default if flag -p i
 
 # License:
 
-This project is licensed under the terms of the [MIT license](/blob/master/LICENSE).
+This project is licensed under the terms of the [MIT license](LICENSE).
 
         
       
