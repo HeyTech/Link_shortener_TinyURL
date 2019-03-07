@@ -9,4 +9,8 @@ if the link doesn't start with https, it uses `https://' by default if flag -p i
 
 
 **License:**
-This project is licensed under the terms of the MIT license.
+
+This project is licensed under the terms of the [MIT license](Link_shortener_TinyURL/LICENSE).
+
+        
+      
